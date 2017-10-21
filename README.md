@@ -719,6 +719,4 @@ If you like LGSideMenuController, check out my other useful libraries:
 * [LGPlusButtonsView](https://github.com/Friend-LGA/LGPlusButtonsView)
   Customizable iOS implementation of Floating Action Button (Google Plus Button, fab).
 
-## License
 
-LGSideMenuController is released under the MIT license. See [LICENSE](https://raw.githubusercontent.com/Friend-LGA/LGSideMenuController/master/LICENSE) for details.
